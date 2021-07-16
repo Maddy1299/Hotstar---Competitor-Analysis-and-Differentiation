@@ -8,7 +8,6 @@ So we are trying to elevate the experience on Hotstar by:
 1.evaluate our competitors to find features that they have which we can implement/adopt
 2.creating new X-factor features unique   to Hotstar
 
-For Visual Representation : https://www.figma.com/file/9KmWgtCWFtyPHNe4WW3bud/Hotstar-Competitor-Analysis-and-Differentiation?node-id=150%3A16
 --------------------------------
 
 Direct Competitors to Hotstar
@@ -58,3 +57,6 @@ Justification:
 2.Promotes the CSR of Hotstar
 3.This acts as a moral incentive and motivates the users to watch more and make users happy and feel grateful
 
+--------------------------------
+
+For Visual Representation : https://www.figma.com/file/4xRJKiVyokU6A1mjI0g3qo/Hotstar-Competitor-Analysis-and-Differentiation?node-id=0%3A1
